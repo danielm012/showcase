@@ -6,7 +6,7 @@ Also, google action for practice on new technology.
 
 # About Me
 Embedded Software Engineer C++ for 3 years at Honeywell.
-Experience building Web, Graphs, and data manipulation.
+Experience building Web, Graphs, and data development.
 Master in Data Science (Python)
 BS in Computer Science (Java)
 AAS in Electronics Technology (Hardware)
